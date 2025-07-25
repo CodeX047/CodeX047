@@ -51,12 +51,16 @@ Currently exploring the world of JavaScript, Python, and backend systems, I love
 
 ---
 
-## 📌 Upcoming Goals
+## 📊 GitHub Stats
 
-- 🌐 Build full MERN stack projects
-- 🧪 Learn Testing & Debugging
-- ☁️ Learn basic DevOps and Cloud concepts
-- 🧠 Get hands-on with **APIs**, **Authentication**, and **Deployment**
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeX047&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeX047&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeX047&theme=tokyonight" />
+</p>
 
 ---
 
@@ -68,5 +72,5 @@ I believe in **learning by doing**, and GitHub is where I document my tech journ
 ---
 
 📫 **Connect with me:**
-- LinkedIn: [linkedin.com/in/vishalpatil](https://www.linkedin.com/in/vishal-ravindra-patil/)
-- Email: vishalrp047@gmail.com
+- LinkedIn: [linkedin.com/in/vishalpatil](https://linkedin.com)
+- Email: vishal@example.com
