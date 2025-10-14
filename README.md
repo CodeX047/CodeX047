@@ -1,75 +1,25 @@
-# 🚀 Welcome to My GitHub Profile! 
+```console
+CodeX047@github:~$ ./welcome.sh
+```
+### 👋 Hi, I'm Vishal
+A developer-in-progress from India, powered by chai, curiosity, and way too many browser tabs. I love crafting smooth web experiences and geeking out over front-end magic — mostly with React, Tailwind, and a sprinkle of GSAP animations.
 
-Hi there! I'm **Vishal Patil**, a curious and enthusiastic Computer Science undergrad at Ajeenkya DY Patil University. I'm passionate about software development, full-stack web projects, and learning new technologies through hands-on building.
+When I’m not coding, you’ll catch me watching anime, exploring new tech stuff, or just fine-tuning tiny details in my projects that no one else notices (but I know they matter 😅).
 
-Currently exploring the world of JavaScript, Python, and backend systems, I love building real-world solutions and leveling up my skills in Full Stack Web Development (MERN), Java, and DBMS.
-
----
-
-## 🛠️ Tech Stack 
-
-### 🔹 Programming & Core Concepts 
-<p align="left">
- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
- <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
- <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
- <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+Let’s talk about web dev, animations, or your favorite anime! 🚀
 
 ---
 
-### 🌐 Web & Full Stack 
-<p align="left">
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
- <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+### 📧 You can reach me at
+
+* Website [`vishal.portfolio`](https://vishal-patil-portfolio.netlify.app/)
+* Discord [`vishal.discord`](https://discordapp.com/users/927188780413247519)
+* Twitter [`vishal.x`](https://x.com/Vishal_Patil264)
+* LinkedIn [`vishal.LinkedIn`](https://www.linkedin.com/in/vishalpatil047/)
+* Email [`vishal.mail`](vishalrp047@gmail.com)
 
 ---
 
-### 🧰 Tools & Platforms 
-<p align="left">
- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
- <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
- <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
- <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white" />
- <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-
----
-
-## 📚 Learning Journey
-
-- 🔄 Currently learning **JavaScript**, **DOM/BOM**, and **Backend with Node.js**
-- 🎯 Completed projects in **DBMS**, like a **Library Management System**
-- 💻 Attended hackathons and participated in building a **Dark Store Management Platform**
-- 🌱 Exploring **Python (via Chai aur Python)** and building logic with loops and data structures
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeX047&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeX047&layout=compact&theme=tokyonight" height="150" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeX047&theme=tokyonight" />
-</p>
-
----
-
-## ✨ Fun Fact
-
-I enjoy watching anime 🎌 and love to blend creativity with code.  
-I believe in **learning by doing**, and GitHub is where I document my tech journey 🚀.
-
----
-
-📫 **Connect with me:**
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/vishal-ravindra-patil/)
-- Email: vishalrp047@gmail.com
+<div>
+    <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeX047&custom_title=Visha%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
+<div> 
