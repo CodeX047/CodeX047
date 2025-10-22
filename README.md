@@ -21,5 +21,9 @@ Let’s talk about web dev, animations, or your favorite anime! 🚀
 ---
 
 <div>
-    <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeX047&custom_title=Vishal%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
+    <a href="#"><img alt="CodeX047 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeX047&custom_title=Vishal%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
 <div> 
+
+<div>
+    <img alt="CodeX047 WakaTime Dashboard" src="https://wakatime.com/share/@53fae684-1b3f-4d70-916f-83f42829ad6b/b36e3c2b-cc69-4b29-8f8d-85e4bc358786.svg" />
+</div>
