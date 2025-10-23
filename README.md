@@ -10,7 +10,7 @@ Let’s talk about web dev, animations, or your favorite anime! 🚀
 
 ---
 
-### 📧 You can reach me at
+### 📧 Reach Me At
 
 * Website [`vishal.portfolio`](https://vishal-patil-portfolio.netlify.app/)
 * Discord [`vishal.discord`](https://discordapp.com/users/927188780413247519)
@@ -20,10 +20,15 @@ Let’s talk about web dev, animations, or your favorite anime! 🚀
 
 ---
 
-<div>
-    <a href="#"><img alt="CodeX047 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeX047&custom_title=Vishal%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
-<div> 
-
-<div>
-    <img alt="CodeX047 WakaTime Dashboard" src="https://wakatime.com/share/@53fae684-1b3f-4d70-916f-83f42829ad6b/b36e3c2b-cc69-4b29-8f8d-85e4bc358786.svg" />
+<div align="center">
+  <a href="#">
+    <img alt="CodeX047 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeX047&custom_title=Vishal%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" />
+  </a>
 </div>
+
+<br/>
+
+<h3 align="center">📊 Vishal WakaTime Dashboard</h3>
+<p align="center">
+  <img src="https://wakatime.com/share/@53fae684-1b3f-4d70-916f-83f42829ad6b/dfa0d36c-b126-41db-9640-2d7ef23a5d85.svg" alt="WakaTime Stats">
+</p>
