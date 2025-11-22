@@ -14,7 +14,7 @@ Let’s talk about web dev, animations, or your favorite anime! 🚀
 
 * Website [`vishal.portfolio`](https://vishal-patil-portfolio.netlify.app/)
 * Discord [`vishal.discord`](https://discordapp.com/users/927188780413247519)
-* Twitter [`vishal.x`](https://x.com/Vishal_Patil264)
+* Twitter [`vishal.x`](https://x.com/vishal_codeX)
 * LinkedIn [`vishal.LinkedIn`](https://www.linkedin.com/in/vishalpatil047/)
 * Email [`vishal.mail`](vishalrp047@gmail.com)
 
