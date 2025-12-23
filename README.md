@@ -32,3 +32,7 @@ Let’s talk about web dev, animations, or your favorite anime! 🚀
 <p align="center">
   <img src="https://wakatime.com/share/@53fae684-1b3f-4d70-916f-83f42829ad6b/dfa0d36c-b126-41db-9640-2d7ef23a5d85.svg" alt="WakaTime Stats">
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
