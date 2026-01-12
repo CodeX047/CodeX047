@@ -30,7 +30,7 @@ Let’s talk about web dev, animations, or your favorite anime! 🚀
 
 <h3 align="center">📊 Vishal WakaTime Dashboard</h3>
 <p align="center">
-  <img src="https://wakatime.com/share/@53fae684-1b3f-4d70-916f-83f42829ad6b/dfa0d36c-b126-41db-9640-2d7ef23a5d85.svg" alt="WakaTime Stats">
+  <img src="https://wakatime.com/share/@CodeX047/dfa0d36c-b126-41db-9640-2d7ef23a5d85.svg" alt="WakaTime Stats">
 </p>
 
 <div align="center">
